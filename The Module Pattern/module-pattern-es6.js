@@ -3,7 +3,7 @@
 //*******************************************************//
 
 
-// Definição dp módulo, cria um objeto exposto publicamente
+// Definição do módulo, cria um objeto exposto publicamente
 
 const basketModule = {
     // Adiciona itens na cesta
